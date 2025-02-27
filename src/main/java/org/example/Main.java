@@ -10,6 +10,8 @@ public class Main {
         System.out.println("Hola lampara");
         int r = 1;
         System.out.println("abc");
+        System.out.println("Holiii volvi");
+
 
 
         for (int i = 1; i <= 5; i++) {
